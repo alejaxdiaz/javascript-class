@@ -34,4 +34,3 @@ for (let i = 0; i < especiales; i++) {
 }
 
 alert(password);
-
