@@ -1,0 +1,9 @@
+Roadmap to the game: 
+
+    ✔ Ask the player to enter their character name and the name of their companion @done(23-07-12 19:58)
+    ✔ Create a character with three lives. @done(23-07-12 19:58)
+    ✔ Intro to the story, reveal the players mission @done(23-07-12 20:09)
+    ✔ Present the player with choices, given the choices we switch to the different scenarios @done(23-07-12 21:57)
+        ✔ If the character loses all three lives, the game is over. @done(23-07-12 21:57)
+    ✔ Success or restart game @done(23-07-12 21:58)
+    
