@@ -2,10 +2,11 @@
 
 ## Temas Incluidos
 ### 1er Fase con Entrega
-1. Conceptos generales: Sintaxis y variables
-2. Control de flujos
-3. Ciclos e iteraciones
-4. Funciones
+✅ 1. Conceptos generales: Sintaxis y variables  <br>
+✅ 2. Control de flujos <br>
+✅ 3. Ciclos e iteraciones <br>
+✅ 4. Funciones <br>
+**Done**
 
 ### 2da Fase con Entrega
 5. Objetos
